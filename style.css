@@ -1,0 +1,22 @@
+#aumentar {
+    background-color: #000080;
+    height: 50px;
+    width: 100px;
+    color : white
+}
+
+#diminuir {
+    background-color: #FF0000;
+    height: 50px;
+    width: 100px;
+    color : white}
+
+
+body {
+    text-align: center;
+    justify-content: center;
+    background-color: #E0FFFF;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+}
